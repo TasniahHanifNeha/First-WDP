@@ -1,0 +1,11 @@
+*{
+    background: rgb(4, 4, 35);
+}
+div{
+    background: #41037a;
+    box-shadow: 8px 8px 10px #464444;
+    margin: 20px;
+    padding: 20px;
+    color: #fff;
+    border: 3px dashed #fff;
+}
